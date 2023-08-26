@@ -1,6 +1,8 @@
 # eaz
 EAZ flower unlimited pixel fractal painting
 
+(msdos-win) package including DosBox for Windows
+
 Contents of this document:
 
 1. EAZ by EatMe
